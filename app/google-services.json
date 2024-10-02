@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791578864602",
+    "project_id": "uts-map-empat-cina",
+    "storage_bucket": "uts-map-empat-cina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791578864602:android:4c13f834b052c82f516ee3",
+        "android_client_info": {
+          "package_name": "com.example.uts_empat_cina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9sLYVFuz0vvBuUd64j4slyW5LkUpMWYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
